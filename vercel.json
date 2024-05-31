@@ -11,9 +11,6 @@
         "src": "/(.*)",
         "dest": "/server.js"
       }
-    ],
-    "hooks": {
-      "build": "npm install bcrypt"
-    }
+    ]
   }
   
